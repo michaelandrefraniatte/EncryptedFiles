@@ -26,7 +26,6 @@ C:\Users\micha\Documents\github\EncryptedFiles\Src\EncryptedFiles\EncryptedFiles
 C:\Users\micha\Documents\github\EncryptedFiles\Src\EncryptedFiles\EncryptedFiles\bin\Release\EncryptedFiles.exe
 C:\Users\micha\Documents\github\EncryptedFiles\Src\EncryptedFiles\EncryptedFiles\bin\Release\EncryptedFiles.pdb
 C:\Users\micha\Documents\github\EncryptedFiles\Src\EncryptedFiles\EncryptedFiles\obj\Release\EncryptedFiles.csproj.AssemblyReference.cache
-C:\Users\micha\Documents\github\EncryptedFiles\Src\EncryptedFiles\EncryptedFiles\obj\Release\EncryptedFiles.csproj.SuggestedBindingRedirects.cache
 C:\Users\micha\Documents\github\EncryptedFiles\Src\EncryptedFiles\EncryptedFiles\obj\Release\EncryptedFiles.Form1.resources
 C:\Users\micha\Documents\github\EncryptedFiles\Src\EncryptedFiles\EncryptedFiles\obj\Release\EncryptedFiles.Properties.Resources.resources
 C:\Users\micha\Documents\github\EncryptedFiles\Src\EncryptedFiles\EncryptedFiles\obj\Release\EncryptedFiles.csproj.GenerateResource.cache
